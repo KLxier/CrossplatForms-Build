@@ -28,7 +28,7 @@ dependencies {
     api("com.google.code.findbugs:jsr305:3.0.2")
 
     compileOnly("org.geysermc.floodgate:api:2.2.0-SNAPSHOT") { isTransitive = false }
-    compileOnly("net.luckperms:api:5.4") { isTransitive = false }
+    compileOnly("net.luckperms:api:5.5") { isTransitive = false }
 
     api("org.bstats:bstats-base:3.0.2")
     api("cloud.commandframework:cloud-core:1.8.3")
